@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FSConstants.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SuperblockManager.cs" />
+    <Compile Include="virtualDisk.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
