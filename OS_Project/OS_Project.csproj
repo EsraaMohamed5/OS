@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Converter.cs" />
+    <Compile Include="DirectoryEntry.cs" />
     <Compile Include="FatTableManager.cs" />
     <Compile Include="FSConstants.cs" />
     <Compile Include="Program.cs" />
